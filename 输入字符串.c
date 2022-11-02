@@ -4,7 +4,7 @@
 int main()
 {
 	char a[20];
-	printf("ÇëÊäÈëÒ»¸ö×Ö·û´®");
+	printf("è¯·è¾“å…¥ä¸€ä¸ªå­—ç¬¦ä¸²\n");
 	scanf("%s",a);
 	printf("%s\n", a);
 	return 0;
