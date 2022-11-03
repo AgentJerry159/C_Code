@@ -4,7 +4,7 @@
 int main()
 {
 	int a = 5;
-	int * pa = &a;
+	int * pa = &a;//pa是指针变量
 	printf("输入数字改变a值");
 	scanf("%d",pa);
 	printf("a=%d\n",*pa);
