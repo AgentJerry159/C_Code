@@ -5,7 +5,7 @@ int main()
 {
 	int a = 5;
 	int * pa = &a;
-	printf("ÇëÊäÈëÒ»¸öÕûÊı£º");
+	printf("è¾“å…¥æ•°å­—æ”¹å˜aå€¼");
 	scanf("%d",pa);
 	printf("a=%d\n",*pa);
 	return 0;
